@@ -1,2 +1,2 @@
-# practica1iOS
+# Práctica1 iOS
 Práctica 1 iOS
